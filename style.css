@@ -20,7 +20,7 @@ body {
 
 div.texto {
     margin: 30px;
-    font-size: clamp(26px, 4vw, 60px);
+    font-size: 60px;
     background: linear-gradient(45deg, var(--cor1), var(--cor3));
     background-size: 400% 100%;
     animation: degrade 10s linear infinite alternate;
@@ -171,6 +171,7 @@ p {
 
     div.texto {
         margin-left: 20px;
+        font-size: 30px;
     }
 
     .slider {
